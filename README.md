@@ -1,1 +1,1 @@
-Connect-Four
+My solution for the Kotlin Project Connect Four from HyperSkill Kotlin Base Track: https://hyperskill.org/projects/202
